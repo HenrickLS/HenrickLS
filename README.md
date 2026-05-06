@@ -44,10 +44,10 @@ Minha jornada competindo em algumas feiras científicas:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/henrickls" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="25" height="25" />
   </a>
   <a href="mailto:henrickl.sereia@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email" />
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email" width="25" height="25" />
   </a>
 </div>
 
