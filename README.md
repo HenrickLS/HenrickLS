@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7B61FF&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+o+Henrick!+👋;Estudante+de+C.C.+💻;Hackathon+Enthusiast+🚀" alt="Typing SVG" />
+</div>
 
-<!--
-**HenrickLS/HenrickLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Bem-vindo(a) ao meu perfil! Sou um apaixonado por tecnologia, inovação e resolução de problemas (especialmente sob a pressão de um bom hackathon!). ☕✨
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+- 🎓 Tenho 18 anos e sou estudante de **Ciência da Computação**.
+- 💡 Gosto de transformar ideias em código e construir projetos que causam impacto.
+- 🌱 Atualmente focando em aprimorar minhas habilidades de desenvolvimento e algoritmos.
+- 🎯 **Meu lema:** Virar a noite programando à base de café e sair com uma solução incrível!
