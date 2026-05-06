@@ -48,7 +48,3 @@ Minha jornada competindo em algumas feiras científicas:
 </p>
 
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Kangaroo.png" alt="Kangaroo" width="40" height="40" />
-  <br>
-</div>
